@@ -1,0 +1,29 @@
+_repo: The-Invention-of-the-Sewing-Machine_32677
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32677-h/images/icover.jpg
+creator:
+  author:
+    agent_name: Cooper, Grace Rogers
+    alias: Rogers, Grace L.
+    gutenberg_agent_id: '32484'
+    url: http://www.gutenberg.org/2009/agents/32484
+description: The sewing machine has been considered by some as one of the most important
+  inventions of 19th-Century America, of equal importance to this story of the invention
+  is the history of the sewing machine's development into a practical, popular commodity.
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2010-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32677'
+  lccn: '68062398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sewing machines -- History'
+- !lcc 'TJ'
+title: The Invention of the Sewing Machine
+url: http://www.gutenberg.org/ebooks/32677
