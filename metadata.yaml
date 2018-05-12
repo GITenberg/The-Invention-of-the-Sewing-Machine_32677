@@ -12,6 +12,8 @@ creator:
 description: The sewing machine has been considered by some as one of the most important
   inventions of 19th-Century America, of equal importance to this story of the invention
   is the history of the sewing machine's development into a practical, popular commodity.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32677#The-Invention-of-the-Sewing-Machine
 gutenberg_bookshelf: Technology
 gutenberg_issued: '2010-06-04'
 gutenberg_type: Text
